@@ -1,1 +1,12 @@
+body{
+    margin:0;
+    padding: 0;
+}
 
+.hero-section{
+    background-image: url("ban11.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: auto;
+    height: 800px;
+}
