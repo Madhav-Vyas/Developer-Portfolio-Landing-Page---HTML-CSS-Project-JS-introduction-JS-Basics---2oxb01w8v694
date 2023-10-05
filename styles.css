@@ -163,6 +163,9 @@ body{
 
 .footer-header{
     font-weight: 700;
-    font-size: 70px;
+    font-size: 40px;
     color:white;
+}
+.footer-subheader li{
+   font-size:20px;
 }
